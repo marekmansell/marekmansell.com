@@ -11,10 +11,10 @@ More info [here](https://www.linkedin.com/in/marekmansell).
 
 ## [](#header-2)Presentations
 
-*   1.súkromné gymnázium Bajkalská - MicroPython for Teachers
+*   1.súkromné gymnázium Bajkalská - "MicroPython for Teachers"
 *   IoT meetup Bratislava - "MicroPython for IoT"
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
-    Presentation Here (SK)
+    [Presentation Here (SK)](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
 
 ## [](#header-2)Workshops
 
