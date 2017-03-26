@@ -34,7 +34,7 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell).
 
 *   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
 *   [Kávovar]() (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
-*   [StaráSmaltovňa.sk](http://starasmaltovna.sk/) - 
+*   [StaráSmaltovňa.sk](http://starasmaltovna.sk/) (Co-founder)
 
 
 
