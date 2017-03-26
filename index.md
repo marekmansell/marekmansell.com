@@ -13,7 +13,7 @@ More info [here](https://www.linkedin.com/in/marekmansell).
 
 ## [](#header-2)Presentations
 
-*   1.súkromné gymnázium Bajkalská - "MicroPython for Teachers"
+*   1.súkromné gymnázium Bajkalská - "Hardware for Teachers"
 *   IoT meetup Bratislava - "MicroPython for IoT"
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
     [Presentation Here (SK)](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
@@ -29,7 +29,7 @@ More info [here](https://www.linkedin.com/in/marekmansell).
 
 ## [](#header-2)Projects
 
-*   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide tohardware
+*   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
 *   Kávovar (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
 
 
