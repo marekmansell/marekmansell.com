@@ -1,3 +1,6 @@
+---
+---
+
 <div style="text-align:center"><img src ="profile/profile.png" /></div>
 
 # [](#header-1)About me
@@ -7,7 +10,7 @@ As SPy o.z. Vice-Chairman, I have co-organized PyCon SK 2016 and PyCon SK 2017.
 
 I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
 
-More info [here](https://www.linkedin.com/in/marekmansell).
+More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell).
 
 
 
@@ -16,7 +19,7 @@ More info [here](https://www.linkedin.com/in/marekmansell).
 *   1.súkromné gymnázium Bajkalská - "Hardware for Teachers"
 *   IoT meetup Bratislava - "MicroPython for IoT"
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
-    [Presentation Here (SK)](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
+    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html).
 
 
 
@@ -30,14 +33,15 @@ More info [here](https://www.linkedin.com/in/marekmansell).
 ## [](#header-2)Projects
 
 *   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
-*   Kávovar (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
+*   [Kávovar]() (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
+*   [StaráSmaltovňa.sk](http://starasmaltovna.sk/) - 
 
 
 
 ## [](#header-2)Contact
 
 * [LinkedIn](https://www.linkedin.com/in/marekmansell)
-* [Facebook](http://facebook.com/marek.mansell)
+* [Facebook](http://facebook.com/marekmansell)
 * [Twitter](http://twitter.com/marekmansell)
 
 ```
