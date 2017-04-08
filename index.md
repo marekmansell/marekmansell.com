@@ -1,4 +1,5 @@
 ---
+redirect_from: "/404"
 ---
 
 <div style="text-align:center"><img src ="profile/profile.png" /></div>
