@@ -25,7 +25,7 @@ Ukážeme si, aké jednoduché je začať s hardvérom, ktoré mikroprocesory s�
 a ako do informatiky zakomponovať fyziku alebo biológiu.
 
 
-## Hardvér
+## Hardvér na workshope
 
 * **NodeMCU** - vývojová doska s MicroPythonom
 * **Digitálny Teplomer** - DS18B20
