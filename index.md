@@ -2,7 +2,7 @@
 redirect_from: "/404"
 ---
 
-<div style="text-align:center"><img src ="profile/profile.png" /></div>
+<div style="text-align:center"><img src ="images/profile.png" /></div>
 
 # [](#header-1)About me
 
