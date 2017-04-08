@@ -3,8 +3,8 @@
 
 # MicroPython
 
-MicroPython je druh Pythonu určený pre naprogramovanie mikroprocesorov. Niektoré z nich obsahujú aj WiFi mudul,
-takže sa ľahko dajú ovládať aj z počítača či mobilu.
+MicroPython je druh Pythonu určený pre naprogramovanie mikroprocesorov. K tým vieme pripojiť
+rôzne hardvérové senzory a moduly.
 
 
 ## MicroPython workshop
