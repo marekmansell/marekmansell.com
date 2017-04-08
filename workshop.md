@@ -45,8 +45,8 @@ Pre detailnejšie porozumenie daného hardvéru je vhodný dlhší workshop (3 a
 ## O lektorovi
 
 Marek je študentom Gymnázia Jura Hronca a venuje sa navrhovaniu elektronických komponentov a ich programovaniu. Podieľal sa na viacerých zaujímavých projektoch, ako je napríklad startup s elektronickými pomôckami pre nevidiacich, inteligentná automatizácia budovy či výroba LED panelov do televíznych štúdií. Je aktívnym členom združenia SPy, o.z., ktoré organizuje pravidelné Python meetupy a konferenciu PyConSK. Výhody Pythonu a krásu hardvéru chce naučiť vidieť aj ostatných, preto začal organizovať MicroPython workshopy.
-<br>www.marekmansell.sk
-<br>www.linkedin.com/in/marekmansell
+<br>[www.marekmansell.sk](http://marekmansell.sk/).
+<br>[www.linkedin.com/in/marekmansell](http://www.linkedin.com/in/marekmansell)
 
 
 ```
