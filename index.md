@@ -27,6 +27,8 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell).
 
 ## [](#header-2)Workshops
 
+More info about hardware workshops [here](http://marekmansell.sk/workshop)
+
 *   Python meetup Bratislava  @Progressbar (Jan 2017)
 *   PyCon Slovakia  @FIIT STU (Mar 2017)
 
