@@ -15,6 +15,8 @@ alebo počítača cez internet, nakoľko zariadenie NodeMCU obsahuje WiFi modul.
 
 Workshop zvládnu aj začiatočníci, nie je potrebná znalosť elektroniky či programovania v Pythone.
 
+<div style="text-align:center"><img src ="/images/workshop/nodemcu.jpg" width="350"/></div>
+
 
 ## MicroPython workshop pre učiteľov
 
@@ -32,6 +34,8 @@ a ako do informatiky zakomponovať fyziku alebo biológiu.
 * **Programovateľný LED pás** - Neopixel LED Strip
 * **Senzor svetla** - fotorezistor
 * **Farebná LED dióda**
+
+<div style="text-align:center"><img src ="/images/workshop/neopixel.jpg" width="350"/></div>
 
 
 ## Zorganizovanie workshopu
