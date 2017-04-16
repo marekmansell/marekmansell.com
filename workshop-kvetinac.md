@@ -27,24 +27,15 @@ Nikdy si neprogramovala? Nikdy si nezapájala elektronické súčiastky? My Ťa 
 
 ## Dĺžka workshopu
 
-Toto musím ešte zistiť :-) Nejak záujemkyne?
+Toto musím ešte zistiť :-) Nejaké záujemkyne?
 
 
 ## Prihlásenie na workshop
 
-[www.goo.gl/forms/Bg9I3HkI9CVvURln1](https://goo.gl/forms/Bg9I3HkI9CVvURln1)
+Tu -> [www.goo.gl/forms/Bg9I3HkI9CVvURln1](https://goo.gl/forms/Bg9I3HkI9CVvURln1)
 
 
-## O lektorovi
-
-Marek je študentom Gymnázia Jura Hronca a venuje sa navrhovaniu elektronických komponentov a ich programovaniu.
-Podieľal sa na viacerých zaujímavých projektoch, ako je napríklad startup s elektronickými pomôckami pre nevidiacich,
-inteligentná automatizácia budovy či výroba LED panelov do televíznych štúdií. Je aktívnym členom združenia SPy, o.z.,
-ktoré organizuje pravidelné Python meetupy a konferenciu PyConSK. Výhody Pythonu a krásu hardvéru chce naučiť vidieť
-aj ostatných, preto začal organizovať MicroPython workshopy.
-<br>[www.marekmansell.sk](http://marekmansell.sk/).
-<br>[www.linkedin.com/in/marekmansell](http://www.linkedin.com/in/marekmansell)
-
+## Kontakt
 
 ```
 Mail: marek.mansell@gmail.com
