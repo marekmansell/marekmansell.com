@@ -32,7 +32,7 @@ Toto musím ešte zistiť :-) Nejak záujemkyne?
 
 ## Prihlásenie na workshop
 
-https://goo.gl/forms/Bg9I3HkI9CVvURln1
+[www.goo.gl/forms/Bg9I3HkI9CVvURln1](https://goo.gl/forms/Bg9I3HkI9CVvURln1)
 
 
 ## O lektorovi
