@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title>Blockly pre MicroPython</title>
-  <script src="blockly_compressed.js"></script>
-  <script src="blocks_compressed.js"></script>
-  <script src="python_compressed.js"></script>
-  <script src="sk.js"></script>
+  <script src="google-files/blockly_compressed.js"></script>
+  <script src="google-files/blocks_compressed.js"></script>
+  <script src="google-files/python_compressed.js"></script>
+  <script src="google-files/sk.js"></script>
   <script src="uPython_blocks_definition.js"></script>
   <script src="uPython_python_code.js"></script>
   <style>
@@ -387,71 +387,98 @@
     </block>
   </category>
   <sep></sep>
+  <category name="Hardvér">
+    <block type="import_modules"></block>
+    <block type="sleep">
+      <field name="sleep_time">0</field>
+    </block>
+    <block type="sleep_ms">
+      <field name="time_value">0</field>
+    </block>
+    <block type="switch_led">
+      <field name="drop">1</field>
+      <field name="pin_number">0</field>
+    </block>
+    <block type="button_input">
+      <field name="pin_number">0</field>
+      <field name="NAME">1</field>
+    </block>
+    <block type="motor">
+      <field name="NAME">0</field>
+      <field name="intensity">255</field>
+    </block>
+    <block type="speaker">
+      <field name="pin_number">0</field>
+      <field name="freq">1000</field>
+    </block>
+  </category>
+  <category name="NeoPixel">
+    <block type="neopixel_declare">
+      <field name="pin_num">0</field>
+      <field name="pixels">8</field>
+    </block>
+    <block type="neopixel_set_pixel">
+      <field name="pixel_number">1</field>
+      <field name="colour">#ff0000</field>
+    </block>
+    <block type="neopixel_set_all">
+      <field name="colour">#ff0000</field>
+    </block>
+    <block type="neopixel_animation">
+      <field name="NAME">0</field>
+    </block>
+    <block type="import_modules">
+      <next>
+        <block type="neopixel_declare">
+          <field name="pin_num">0</field>
+          <field name="pixels">8</field>
+          <next>
+            <block type="neopixel_set_all">
+              <field name="colour">#ffffff</field>
+              <next>
+                <block type="neopixel_animation">
+                  <field name="NAME">0</field>
+                  <next>
+                    <block type="neopixel_animation">
+                      <field name="NAME">3</field>
+                      <next>
+                        <block type="neopixel_animation">
+                          <field name="NAME">2</field>
+                          <next>
+                            <block type="neopixel_animation">
+                              <field name="NAME">1</field>
+                              <next>
+                                <block type="neopixel_set_all">
+                                  <field name="colour">#000000</field>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </category>
+  <category name="Teplomer">
+    <block type="temp_declare">
+      <field name="pin_num">0</field>
+    </block>
+    <block type="temp_print">
+      <field name="pin_num">0</field>
+    </block>
+  </category>
+  <sep></sep>
   <category name="Variables" colour="#A65C81" custom="VARIABLE"></category>
   <category name="Functions" colour="#9A5CA6" custom="PROCEDURE"></category>
   <sep></sep>
-  <category name="Hardvér">
-  <block type="import_machine"></block>
-  <block type="sleep">
-    <field name="sleep_time">0</field>
-  </block>
-  <block type="pin_object">
-    <field name="pin">0</field>
-  </block>
-  <block type="set_pin_output">
-    <field name="pin_object">item</field>
-    <field name="value">1</field>
-  </block>
-</category>
 </xml>
-
-
-
-<!--#include file="toolbox.xml" -->
-
-<!--   <xml id="toolbox" style="display: none">
-    <category name="Logic">
-      <block type="controls_if"></block>
-      <block type="logic_compare"></block>
-      <block type="logic_operation"></block>
-      <block type="logic_negate"></block>
-      <block type="logic_boolean"></block>
-    </category>
-    <category name="Loops">
-      <block type="controls_repeat_ext">
-        <value name="TIMES">
-          <block type="math_number">
-            <field name="NUM">10</field>
-          </block>
-        </value>
-      </block>
-      <block type="controls_whileUntil"></block>
-    </category>
-    <category name="Math">
-      <block type="math_number"></block>
-      <block type="math_arithmetic"></block>
-      <block type="math_single"></block>
-    </category>
-    <category name="Text">
-      <block type="text"></block>
-      <block type="text_length"></block>
-      <block type="text_print"></block>
-    </category>
-    <category name="Hardvér">
-      <block type="import_machine"></block>
-      <block type="sleep">
-        <field name="sleep_time">0</field>
-      </block>
-      <block type="pin_object">
-        <field name="pin">0</field>
-      </block>
-      <block type="set_pin_output">
-        <field name="pin_object">item</field>
-        <field name="value">1</field>
-      </block>
-    </category>
-    <category name="Premenné" custom="VARIABLE"></category>
-  </xml> -->
 
 
   <script>
