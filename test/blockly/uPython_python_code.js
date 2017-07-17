@@ -62,14 +62,14 @@ def prelet():\n\
       np[i] = (0, 0, 0)\n\
     np[j] = (255, 255, 255)\n\
     np.write()\n\
-    time.sleep_ms(30)\n\
+    time.sleep_ms(50)\n\
 def rev_prelet():\n\
   for j in range(n-1, -1, -1):\n\
     for i in range(n):\n\
       np[i] = (0, 0, 0)\n\
     np[j] = (255, 255, 255)\n\
     np.write()\n\
-    time.sleep_ms(30)\n\
+    time.sleep_ms(50)\n\
 def vystraha():\n\
   for i in range(0, 4 * 256, 8):\n\
     for j in range(n):\n\
