@@ -26,11 +26,11 @@
     <button onclick="showCode()">Spusti</button>
   </h1>
 
-  <div id="blocklyDiv" style="height: 550px; width: 800px;"></div>
+  <div id="blocklyDiv" style="height: 500px; width: 800px;"></div>
 
 
 <xml xmlns="http://www.w3.org/1999/xhtml" id="toolbox" style="display: none;">
-  <category name="Logic" colour="#5C81A6">
+  <category name="Logika" colour="#5C81A6">
     <block type="controls_if"></block>
     <block type="logic_compare">
       <field name="OP">EQ</field>
@@ -45,7 +45,7 @@
     <block type="logic_null"></block>
     <block type="logic_ternary"></block>
   </category>
-  <category name="Loops" colour="#5CA65C">
+  <category name="Slučky" colour="#5CA65C">
     <block type="controls_repeat_ext">
       <value name="TIMES">
         <shadow type="math_number">
@@ -81,7 +81,7 @@
       <field name="FLOW">BREAK</field>
     </block>
   </category>
-  <category name="Math" colour="#5C68A6">
+  <category name="Matematika" colour="#5C68A6">
     <block type="math_number">
       <field name="NUM">0</field>
     </block>
@@ -275,7 +275,7 @@
       </value>
     </block>
   </category>
-  <category name="Lists" colour="#745CA6">
+  <category name="Zoznamy" colour="#745CA6">
     <block type="lists_create_with">
       <mutation items="0"></mutation>
     </block>
@@ -343,7 +343,7 @@
       <field name="DIRECTION">1</field>
     </block>
   </category>
-  <category name="Colour" colour="#A6745C">
+  <category name="Farby" colour="#A6745C">
     <block type="colour_picker">
       <field name="COLOUR">#ff0000</field>
     </block>
@@ -470,10 +470,17 @@
     <block type="temp_print">
       <field name="pin_num">0</field>
     </block>
+    <block type="text_print">
+      <value name="TEXT">
+        <shadow type="text">
+          <field name="TEXT">abc</field>
+        </shadow>
+      </value>
+    </block>
   </category>
   <sep></sep>
-  <category name="Variables" colour="#A65C81" custom="VARIABLE"></category>
-  <category name="Functions" colour="#9A5CA6" custom="PROCEDURE"></category>
+  <category name="Premenné" colour="#A65C81" custom="VARIABLE"></category>
+  <category name="Funkcie" colour="#9A5CA6" custom="PROCEDURE"></category>
   <sep></sep>
 </xml>
 
