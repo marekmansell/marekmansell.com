@@ -48,7 +48,7 @@ Blockly.Python['neopixel_set_pixel'] = function(block) {
 Blockly.Python['neopixel_set_all'] = function(block) {
   var colour_colour = block.getFieldValue('colour');
   // TODO: Assemble Python into code variable.
-  var code = '...\n';
+  var code = 'for i in range(np.n): np[i] = (int("'+colour_colour+'"[1:3], 16), int("'+colour_colour+'"[3:5], 16), int("'+colour_colour+'"[5:7], 16))\nnp.write()\n';
   return code;
 };
 
