@@ -104,11 +104,11 @@ Blockly.Python['temp_declare'] = function(block) {
   var number_pin_num = block.getFieldValue('pin_num');
   // TODO: Assemble Python into code variable.
   var code = 'temp_pin = ds18x20.DS18X20(onewire.OneWire(machine.Pin('+number_pin_num+')))\n\
-temp_address = temp_pin.scan()\n\
+temp_address = temp_pin.scan()[0]\n\
 def get_temp(temp_address):\n\
   temp_pin.convert_temp()\n\
   time.sleep_ms(750)\n\
-  temp_pin.read_temp(temp_address)\n';
+  return temp_pin.read_temp(temp_address)\n';
   return code;
 };
 
