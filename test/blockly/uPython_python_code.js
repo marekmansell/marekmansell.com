@@ -88,7 +88,7 @@ Blockly.Python['motor'] = function(block) {
   var number_name = block.getFieldValue('NAME');
   var dropdown_intensity = block.getFieldValue('intensity');
   // TODO: Assemble Python into code variable.
-  var code = 'machine.PWM(machine.Pin('+number_name+'), freq=500, duty='+dropdown_intensity+')\n';
+  var code = 'machine.PWM(machine.Pin('+number_name+'), freq=500, duty='+dropdown_intensity+'*4)\n';
   return code;
 };
 
