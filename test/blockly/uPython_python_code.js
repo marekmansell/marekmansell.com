@@ -88,7 +88,7 @@ Blockly.Python['motor'] = function(block) {
   var number_name = block.getFieldValue('NAME');
   var dropdown_intensity = block.getFieldValue('intensity');
   // TODO: Assemble Python into code variable.
-  var code = 'PWM(Pin('+number_name+'), freq=500, duty='+dropdown_intensity+')\n';
+  var code = 'machine.PWM(machine.Pin('+number_name+'), freq=500, duty='+dropdown_intensity+')\n';
   return code;
 };
 
@@ -96,7 +96,7 @@ Blockly.Python['speaker'] = function(block) {
   var number_pin_number = block.getFieldValue('pin_number');
   var dropdown_freq = block.getFieldValue('freq');
   // TODO: Assemble Python into code variable.
-  var code = 'PWM(Pin('+number_pin_number+'), freq='+dropdown_freq+', duty=512)\n';
+  var code = 'machine.PWM(machine.Pin('+number_pin_number+'), freq='+dropdown_freq+', duty=512)\n';
   return code;
 };
 
