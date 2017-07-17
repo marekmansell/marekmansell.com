@@ -55,7 +55,32 @@ Blockly.Python['neopixel_set_all'] = function(block) {
 Blockly.Python['neopixel_animation'] = function(block) {
   var dropdown_name = block.getFieldValue('NAME');
   // TODO: Assemble Python into code variable.
-  var code = '...\n';
+  var code = 'n = np.n\n\
+def prelet():\n\
+  for j in range(n):\n\
+    for i in range(n):\n\
+      np[i] = (0, 0, 0)\n\
+    np[j] = (255, 255, 255)\n\
+    np.write()\n\
+    time.sleep_ms(30)\n\
+def rev_prelet():\n\
+  for j in range(n-1, -1, -1):\n\
+    for i in range(n):\n\
+      np[i] = (0, 0, 0)\n\
+    np[j] = (255, 255, 255)\n\
+    np.write()\n\
+    time.sleep_ms(30)\n\
+def vystraha():\n\
+  for i in range(0, 4 * 256, 8):\n\
+    for j in range(n):\n\
+      if (i // 256) % 2 == 0:\n\
+        val = i & 0xff\n\
+      else:\n\
+        val = 255 - (i & 0xff)\n\
+      np[j] = (val, 0, 0)\n\
+    np.write()\n\
+' + dropdown_name + '()\n';
+
   return code;
 };
 

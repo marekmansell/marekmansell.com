@@ -403,7 +403,7 @@
               <field name="colour">#ffffff</field>
               <next>
                 <block type="neopixel_animation">
-                  <field name="NAME">0</field>
+                  <field name="NAME">prelet</field>
                   <next>
                     <block type="neopixel_animation">
                       <field name="NAME">3</field>
