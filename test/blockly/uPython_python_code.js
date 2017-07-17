@@ -33,7 +33,7 @@ Blockly.Python['neopixel_declare'] = function(block) {
   var number_pin_num = block.getFieldValue('pin_num');
   var number_pixels = block.getFieldValue('pixels');
   // TODO: Assemble Python into code variable.
-  var code = '...\n';
+  var code = 'np = neopixel.NeoPixel(machine.Pin(' + number_pin_num + '), ' + number_pixels + ')\n';
   return code;
 };
 
@@ -41,7 +41,7 @@ Blockly.Python['neopixel_set_pixel'] = function(block) {
   var number_pixel_number = block.getFieldValue('pixel_number');
   var colour_colour = block.getFieldValue('colour');
   // TODO: Assemble Python into code variable.
-  var code = '...\n';
+  var code = 'np[' + number_pixel_number + '-1] = (int("'+colour_colour+'"[1:3], 16), int("'+colour_colour+'"[3:5], 16), int("'+colour_colour+'"[5:7], 16))\nnp.write()\n';
   return code;
 };
 
