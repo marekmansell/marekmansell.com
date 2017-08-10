@@ -15,9 +15,9 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell)
 
 
 
-## [](#header-2)Presentations
+## [](#header-2)My Talks and Presentations
 
-*   1.súkromné gymnázium Bajkalská - "Hardware for Teachers"
+*   1.súkromné gymnázium Bajkalská High School - "Hardware for Teachers"
 *   IoT meetup Bratislava - "MicroPython for IoT"
     Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-iot.html)
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
@@ -26,7 +26,7 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell)
 
 
 
-## [](#header-2)Workshops
+## [](#header-2)Organized Workshops
 
 More info about hardware workshops [here](http://marekmansell.sk/workshop)
 
@@ -34,6 +34,7 @@ More info about hardware workshops [here](http://marekmansell.sk/workshop)
 *   PyCon Slovakia  @FIIT STU (Mar 2017)
 *   Fablab Hardware workshop @Fablab Bratislava (Apr 2017)
 *   microPython @OSS Weekend conference (June 2017)
+*   Hardware for Teachers @GJH High School (June 2017)
 *   Children's summer camp @Comenius University (July 2017)
 
 
@@ -56,10 +57,3 @@ More info about hardware workshops [here](http://marekmansell.sk/workshop)
 ```
 Mail: marek.mansell@gmail.com
 ```
-
-
-
-    
-   
-
-    
