@@ -11,7 +11,7 @@ As SPy o.z. Vice-Chairman, I have co-organized PyCon SK 2016 and PyCon SK 2017.
 
 I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
 
-More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell).
+More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell)
 
 
 
@@ -19,9 +19,10 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell).
 
 *   1.súkromné gymnázium Bajkalská - "Hardware for Teachers"
 *   IoT meetup Bratislava - "MicroPython for IoT"
-    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-iot.html).
+    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-iot.html)
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
-    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html).
+    Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
+*   OSS Weekend conference 2017 (SK) - "Why and how use (micro)Python in electronics"
 
 
 
@@ -31,12 +32,16 @@ More info about hardware workshops [here](http://marekmansell.sk/workshop)
 
 *   Python meetup Bratislava  @Progressbar (Jan 2017)
 *   PyCon Slovakia  @FIIT STU (Mar 2017)
+*   Fablab Hardware workshop @Fablab Bratislava (Apr 2017)
+*   microPython @OSS Weekend conference (June 2017)
+*   Children's summer camp @Comenius University (July 2017)
 
 
 
 ## [](#header-2)Projects
 
 *   [MicroPython.sk](http://micropython.sk/) - A web portal featuring Slovak MicroPython documentation, as well as a beginner's guide to hardware
+*   [MicoPython Editor](http://micropython.sk/editor) - An IDE for developing in MicroPython, suitable for kids (Blockly feature) and beginners
 *   Kávovar (Resco MADHack hackhaton) - An IoT project focused on simplifying everyday morning coffee/tea making.
 *   [StaráSmaltovňa.sk](http://starasmaltovna.sk/) (Co-founder)
 
