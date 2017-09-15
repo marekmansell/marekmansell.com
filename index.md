@@ -9,6 +9,8 @@ redirect_from: "/404"
 I am an active member of the Slovak Python community since 2015.
 As SPy o.z. Vice-Chairman, I have co-organized PyCon SK 2016 and PyCon SK 2017.
 
+I work as an electronics technician, designing and prototyping custom embedded products - part selection, microprocessor selection, PCB design (Eagle), PCB assembly, SMD soldering, testing, case design (in CAD software), case manufacturing (3D printing and CNC milling), embedded software programming
+
 I believe Python and MicroPython should be taught at Slovak High Schools, and so I started organizing workshops for teachers as well as giving presentations (EduTrack 2017).
 
 More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell)
