@@ -25,6 +25,8 @@ More info can be found on [LinkedIn](https://www.linkedin.com/in/marekmansell)
 *   PyCon Slovakia EduTrack 2017 - "MicroPython - Python and Hardware go together"
     Presentation (SK) [here](http://marekmansell.sk/presentations/slides-micropython-python-a-hardver-patria-k-sebe.html)
 *   OSS Weekend conference 2017 (SK) - "Why and how to use (micro)Python in electronics"
+*   FIIT STU - "IT possibilities in Bratislava and beyond"
+    Presentation (EN) [here](http://marekmansell.sk/presentations/slides-it-possibilities-in-ba-and-beyond.html)
 
 
 
