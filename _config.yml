@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 title: Marek Mansell
 description: Embedded Hardware Enthusiast and Pycon Slovakia Vice-Chairman
+permalink: /:categories/:title
 
 gems:
   - jekyll-redirect-from
