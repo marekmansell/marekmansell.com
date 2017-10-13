@@ -4,6 +4,15 @@ redirect_from: "/404"
 
 <div style="text-align:center"><img src ="images/profile.png" /></div>
 
+<ul>
+{% for post in site.posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+
 # [](#header-1)About me
 
 I am an active member of the Slovak Python community since 2015.
