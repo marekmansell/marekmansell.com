@@ -4,6 +4,7 @@ redirect_from: "/404"
 
 <div style="text-align:center"><img src ="images/profile.png" /></div>
 
+<!--
 <ul>
 {% for post in site.posts %}
     <li>
@@ -11,7 +12,7 @@ redirect_from: "/404"
     </li>
 {% endfor %}
 </ul>
-
+-->
 
 # [](#header-1)About me
 
