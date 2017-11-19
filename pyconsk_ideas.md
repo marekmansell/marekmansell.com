@@ -89,6 +89,11 @@ Tak na toto bude treba veľa peňazí :-( mať dvoch robotov (čiže 2 microbity
 * ultrazvukový senzor vzdialenosti
 * NeoPixel krúžok
 
+### Senzor srdcovej frekvencie
+
+### Mini model inteligentného domčeku (výtvarná výchova)
+pohybové senzory, teplomer, displej, čítačka RFID karet, dažďový denzor
+
 ### Inteligentný kvetináč s automackým zavlažovaním
 
 ### FB / Twitter NodeMCU bot
