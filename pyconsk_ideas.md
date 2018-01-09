@@ -108,3 +108,5 @@ pohybové senzory, teplomer, displej, čítačka RFID karet, dažďový denzor
 * LED Strip NeoPixel
 * 2 buttons
 Vždy svieti len 1 LEDka a na konci vždy musíš stlačiť button
+
+### Google Docs Video
