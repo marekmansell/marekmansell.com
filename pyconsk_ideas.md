@@ -110,3 +110,10 @@ pohybové senzory, teplomer, displej, čítačka RFID karet, dažďový denzor
 Vždy svieti len 1 LEDka a na konci vždy musíš stlačiť button
 
 ### Google Docs Video
+### Video of last PyCon EduTrack
+* dobré reakcie z feedbacku
+* fotky osobností (Blaho, Kalaš)
+* zostrih z minulého roka + foto
+
+### Accomodation
+- upozorniť, že si ho maj hľadať
