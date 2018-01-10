@@ -117,3 +117,5 @@ Vždy svieti len 1 LEDka a na konci vždy musíš stlačiť button
 
 ### Accomodation
 - upozorniť, že si ho maj hľadať
+
+### Bowling with speed measure (plastic ball)
