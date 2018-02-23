@@ -7,10 +7,12 @@
   <div class="overlay"></div>
   <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 {% else %}
+{% include head.html %}
 
-{% include head-dark.html %}
+<section class="article">
 
-<section class="article pad-top">
+  <div class="overlay"></div>
+  <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 
 {% endif %}
 
