@@ -102,3 +102,20 @@ pohybové senzory, teplomer, displej, čítačka RFID karet, dažďový denzor
 
 ### Large Pacman costume
 [instructables](https://www.instructables.com/id/Pacman-LED-Pixel-Panel-Costume)
+
+### 1D Pong
+
+* LED Strip NeoPixel
+* 2 buttons
+Vždy svieti len 1 LEDka a na konci vždy musíš stlačiť button
+
+### Google Docs Video
+### Video of last PyCon EduTrack
+* dobré reakcie z feedbacku
+* fotky osobností (Blaho, Kalaš)
+* zostrih z minulého roka + foto
+
+### Accomodation
+- upozorniť, že si ho maj hľadať
+
+### Bowling with speed measure (plastic ball)
