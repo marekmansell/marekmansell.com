@@ -10,8 +10,8 @@ image:
 
 #### Ako ma viete kontaktovať:
 
-* [LinkedIn](//www.linkedin.com/in/marekmansell)
-* [Facebook](//facebook.com/marekmansell)
-* [Twitter](//twitter.com/marekmansell)
+* [LinkedIn](https://www.linkedin.com/in/marekmansell)
+* [Facebook](https://facebook.com/marekmansell)
+* [Twitter](https://twitter.com/marekmansell)
 * Mail: marek.mansell@gmail.com
 * Telefón: +421 904 010 424
