@@ -30,7 +30,7 @@ Pre detailnejšie porozumenie daného hardvéru je vhodný dlhší workshop (3 a
 
 #### Niektoré zo zorganizovaných workshopov
 
-*   Python meetup Bratislava v Progressbarw, BA (Január 2017)
+*   Python meetup Bratislava v Progressbar, BA (Január 2017)
 *   Učiteľský workshop na PyCon Slovakia FIIT STU (Marec 2017)
 *   Hardvérový workshop vo Fablabe, Bratislava (Apríl 2017)
 *   microPython @OSS Weekend conference (Jún 2017)

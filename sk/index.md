@@ -15,7 +15,7 @@ Som zanieteným informatikom, dobrovoľníkom a experimentátorom :-) Študujem 
 Združenie SPy sa usiluje o popularizáciu programovacieho jazyka Python pomocou organizácie konferencií PyCon a pravidelných Python meetupov v Bratislave. Taktiež sa venuje vzdelávacím projektom a zlepšovaniu výučby informatiky na základných a stredných školách. Vrámci združenia SPy som spoluorganizoval konferencie PyCon v rokoch 2016 až 2018.
 
 Viac o SPy a PyConSK sa dozvieš z tohto Lightning Talku :-) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Hardvér a Elektronika
 
@@ -23,7 +23,7 @@ Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito tech
 
 #### Projekty
 
-*   [MicroPython.sk](http://micropython.sk/) - Portál obsahujúci návody na MicroPython, NodeMCU a micro:bit
+*   [MicroPython.sk](//micropython.sk/) - Portál obsahujúci návody na MicroPython, NodeMCU a micro:bit
 *   Kávovar (Resco MADHack hackhaton) - IoT projekt s cieľom automatizovať prípravu rannej kávy či čaju
 *   [StaráSmaltov&#x0148;a.sk](#) (Spoluzakladajúci člen)
 *   [Učiteľské workshopy](http://micropython.sk/microbit) - najbližší sa koná 1.3.2018 v BB
@@ -31,8 +31,8 @@ Profesionálne sa venujem vývoju prototypov hardvéru, a to najmä týmito tech
 
 #### Kontakt
 
-* [LinkedIn](https://www.linkedin.com/in/marekmansell)
-* [Facebook](http://facebook.com/marekmansell)
-* [Twitter](http://twitter.com/marekmansell)
+* [LinkedIn](//www.linkedin.com/in/marekmansell)
+* [Facebook](//facebook.com/marekmansell)
+* [Twitter](//twitter.com/marekmansell)
 * Mail: marek.mansell@gmail.com
 * Telefón: +421 904 010 424
