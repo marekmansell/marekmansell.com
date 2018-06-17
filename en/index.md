@@ -10,14 +10,15 @@ image:
 
 I am an enthusiastic programmer, volunteer and experimentator :-) I am currently studying Networking technologies at Slovak University of Technology and leadership in Nexteria Leadership Academy. I am vice-chairman of SPy, a civic association which is the organiser of PyCon Slovakia and monthly Python meetups in Bratislava. I am a hardware engeneer and develop embedded products.
 
-#### microbit:Slovensko
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 #### SPy o.z. and PyCon Slovakia
 
 Find out more about PyConSK in this Lightning Talk :-)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+#### microbit:Slovensko
+
+Here is a video in Slovak about the things our association is working on.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### Hardware and Elecronics
 
