@@ -10,7 +10,9 @@ image:
 
 Som zanieteným informatikom, dobrovoľníkom a experimentátorom :-) Študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria Leadership Academy a som podpredsedom občianskeho združenia SPy, ktoré organizuje konferenciu PyCon ako aj workshopy pre nadšencov programovacieho jazyka Python a pre učiteľov informatiky. Pôsobím ako lektor pre výuku hardvéru a zaoberám sa tvorbou online materiálov pre túto problematiku. Profesionálne sa venujem vývoju hardvérových prototypov. Vo voľnom čase sa taktiež venujem mentorovaniu stredoškolákov pri tvorbe ich vlastných softvérových alebo hardvérových projektov.
 
-#### microbit:Slovensko
+#### Učíme s Hardvérom
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

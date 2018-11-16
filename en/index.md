@@ -15,7 +15,9 @@ I am an enthusiastic programmer, volunteer and experimentator :-) I am currently
 Find out more about PyConSK in this Lightning Talk :-)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### microbit:Slovensko
+#### Teaching with Hardware
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here is a video in Slovak about the things our association is working on.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
