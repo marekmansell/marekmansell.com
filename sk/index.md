@@ -18,7 +18,7 @@ Popri tom študujem internetové technológie na Fakulte informatiky a informač
 Leadership Academy. Ako podpredseda občianskeho združenia SPy spoluorganizujem konferenciu PyCon, každoročné stretnutie 
 Python komunity na Slovensku. V minulosti som taktiež pracoval ako hardvérový vývojár, kde som sa venoval výrobe LED
 panelov a účelových zariadení pre zdravotnícky sektor.
-. Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
+Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
 #### Učíme s Hardvérom
 
