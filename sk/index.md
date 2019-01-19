@@ -8,6 +8,8 @@ image:
 
 ![Malta](/images/malta_18_pool.jpg)
 
+#### O mne
+
 Som zanieteným edukátorom, dobrovoľníkom a experimentátorom :-) Pracujem ako projektový manažér iniciatívy
 Učíme s Hardvérom, pomocou ktorej sa snažíme robiť hodiny informatiky zaujímavejšími a 
 tým zvyšovať digitálnu gramotnosť žiakov. Používame na to malú edukačnú "hračku" nazývanú BBC micro:bit.
