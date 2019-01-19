@@ -31,9 +31,9 @@ hardvérové projekty? "Jéj, ono to bliká!" je zvolanie, ktoré je počuť ča
 symbolizuje motiváciu žiaka hravo tvoriť. Pomôže nám pri tom edukačná doska micro:bit, ktorú vo Veľkej Británii
 navrhli špeciálne pre 11 ročné deti a k tomu vytvorili množstvo učebných materiálov a návodov.
 
-<iframe width="560" valign=center height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" valign="center" height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" valign=center height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" valign="center" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 #### SPy o.z. a PyCon Slovensko
 
