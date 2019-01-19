@@ -22,6 +22,8 @@ Python komunity na Slovensku. V minulosti som taktiež pracoval ako hardvérový
 panelov, účelových zariadení pre zdravotnícky sektor a elektronickej pomôcke pre nevidiacich BatSuite.
 Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
+<br/><br/>
+
 #### Učíme s Hardvérom
 
 Projektom [Učíme s Hardvérom](//ucimeshardverom.sk/) chceme vniesť do vyučovania informatiky na základných a stredných školách také praktické
