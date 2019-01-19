@@ -6,9 +6,6 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-
-#### Ako ma viete kontaktovať:
-
 ![Marek](/images/marek/malta_18_pool.jpg)
 
 ![Marek](/images/marek/malta_18_profile.png)
