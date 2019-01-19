@@ -14,10 +14,9 @@ tým zvyšovať digitálnu gramotnosť žiakov. Používame na to malú edukačn
 Dôležitou súčasťou tohto projektu je spolupráca s učiteľmi, preklad a tvorba vzdelávacích
 materiálov šírenými pod otvorenými licenciami, výskum v oblasti didaktiky informatiky a v neposlednom rade
 množstvo školení, ktoré každý mesiac organizujeme pre učiteľov, žiakov i širokú verejnosť.
-Popri tom študujem internetové technológie na Fakulte.
-informatiky a informačných technológií STU a líderstvo v Nexteria Leadership Academy. Ako podpredseda občianskeho
-združenia SPy spoluorganizujem konferenciu PyCon, každoročné stretnutie Python komunity na Slovensku.
-Lektorujem workshopy pre nadšencov programovacieho jazyka Python
+Popri tom študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria 
+Leadership Academy. Ako podpredseda občianskeho združenia SPy spoluorganizujem konferenciu PyCon, každoročné stretnutie 
+Python komunity na Slovensku. Lektorujem workshopy pre nadšencov programovacieho jazyka Python
 a pre učiteľov informatiky. V minulosti som taktiež pracoval ako hardvérový vývojár. Mojou srdcovkou je festival
 Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
