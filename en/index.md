@@ -6,7 +6,7 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Profile Image](/images/profile_small.png)
+![Malta](/images/malta_18_pool.jpg)
 
 I am an enthusiastic programmer, volunteer and experimentator :-) I am currently studying Networking technologies at Slovak University of Technology and leadership in Nexteria Leadership Academy. I am vice-chairman of SPy, a civic association which is the organiser of PyCon Slovakia and monthly Python meetups in Bratislava. I am a hardware engeneer and develop embedded products.
 

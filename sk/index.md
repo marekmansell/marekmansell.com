@@ -6,9 +6,19 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Profile Image](/images/profile_small.png)
+![Malta](/images/malta_18_pool.jpg)
 
-Som zanieteným informatikom, dobrovoľníkom a experimentátorom :-) Študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria Leadership Academy a som podpredsedom občianskeho združenia SPy, ktoré organizuje konferenciu PyCon ako aj workshopy pre nadšencov programovacieho jazyka Python a pre učiteľov informatiky. Pôsobím ako lektor pre výuku hardvéru a zaoberám sa tvorbou online materiálov pre túto problematiku. Profesionálne sa venujem vývoju hardvérových prototypov. Vo voľnom čase sa taktiež venujem mentorovaniu stredoškolákov pri tvorbe ich vlastných softvérových alebo hardvérových projektov.
+Som zanieteným edukátorom, dobrovoľníkom a experimentátorom :-) Pracujem ako projektový manažér iniciatívy
+Učíme s Hardvérom, pomocou ktorej sa snažíme robiť hodiny informatiky zaujímavejšími a 
+tým zvyšovať digitálnu gramotnosť žiakov. Používame na to malú edukačnú "hračku" nazývanú BBC micro:bit.
+Dôležitou súčasťou tohto projektu je spolupráca s učiteľmi, preklad a tvorba vzdelávacích
+materiálov šírenými pod otvorenými licenciami a výskum v oblasti didaktiky informatiky
+Študujem internetové technológie na Fakulte 
+informatiky a informačných technológií STU a líderstvo v Nexteria Leadership Academy. Ako podpredseda občianskeho
+združenia SPy  spoluorganizujem konferenciu PyCon, každoročné stretnutie Python komunity na Slovensku.
+Lektorujem workshopy pre nadšencov programovacieho jazyka Python
+a pre učiteľov informatiky. V minulosti som taktiež pracoval ako hardvérový vývojár. Mojou srdcovkou je festival
+Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
 #### Učíme s Hardvérom
 
