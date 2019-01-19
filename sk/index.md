@@ -62,6 +62,8 @@ a elektronickej pomôcke pre nevidiacich BatSuite.
 *   [MicroPython.sk](http://micropython.sk/) - Portál obsahujúci návody na MicroPython a NodeMCU
 *   Kávovar (Resco MADHack hackhaton) - IoT projekt s cieľom automatizovať prípravu rannej kávy či čaju
 *   StaráSmaltov&#x0148;a (Spoluzakladajúci člen)
+*   [AllForJan - Sentinel](https://github.com/AllForJan/sentinel) - Projekt na analýzu históre využívania
+    poľnohospodárskej pôdy pomocou satelitných snímkov Sentinel
 
 
 #### Kontakt

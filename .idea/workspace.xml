@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd047145-b08f-49b2-90b7-0b40b0d69082" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sass/_styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sk/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/sk/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/sk/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="37" column="174" selection-start-line="37" selection-start-column="174" selection-end-line="37" selection-end-column="174" />
+              <first_editor relative-caret-position="435">
+                <caret line="65" column="63" selection-start-line="65" selection-start-column="63" selection-end-line="65" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -190,8 +189,8 @@
     <entry file="file://$PROJECT_DIR$/sk/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="37" column="174" selection-start-line="37" selection-start-column="174" selection-end-line="37" selection-end-column="174" />
+          <first_editor relative-caret-position="435">
+            <caret line="65" column="63" selection-start-line="65" selection-start-column="63" selection-end-line="65" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
