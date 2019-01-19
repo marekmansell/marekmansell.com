@@ -17,7 +17,7 @@ množstvo školení, ktoré každý mesiac organizujeme pre učiteľov, žiakov 
 Popri tom študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria 
 Leadership Academy. Ako podpredseda občianskeho združenia SPy spoluorganizujem konferenciu PyCon, každoročné stretnutie 
 Python komunity na Slovensku. V minulosti som taktiež pracoval ako hardvérový vývojár, kde som sa venoval výrobe LED
-panelov a účelových zariadení pre zdravotnícky sektor.
+panelov, účelových zariadení pre zdravotnícky sektor a elektronickej pomôcke pre nevidiacich BatSuite.
 Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
 #### Učíme s Hardvérom
