@@ -22,7 +22,7 @@ Python komunity na Slovensku. V minulosti som taktiež pracoval ako hardvérový
 panelov, účelových zariadení pre zdravotnícky sektor a elektronickej pomôcke pre nevidiacich BatSuite.
 Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
 
-<br/><br/>
+<br/>
 
 #### Učíme s Hardvérom
 
@@ -41,7 +41,7 @@ navrhli špeciálne pre 11 ročné deti a k tomu vytvorili množstvo učebných 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .center-image }
 
-<br/><br/>
+<br/>
 
 #### SPy o.z. a PyCon Slovensko
 
@@ -50,14 +50,14 @@ navrhli špeciálne pre 11 ročné deti a k tomu vytvorili množstvo učebných 
 Viac o SPy a PyConSK sa dozvieš z tohto Lightning Talku :-) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .center-image }
 
-<br/><br/>
+<br/>
 
 #### Festiaval Atmosféra
 
 [Atmosféra](//festivalatmosfera.sk/) je najlúžasnejším malým festivalom na Slovensku :-) Vidíme sa prvý augustový
 víkend na lúke v Hontianskych Nemciach :-)
 
-<br/><br/>
+<br/>
 
 #### Hardvér a Elektronika
 
@@ -66,7 +66,7 @@ systémov - výber súčiastok, návrh DPS (Eagle), osádzanie a testovanie DPS,
 3D tlač, programovanie mikroprocesorov v oblastia výroby LED panelov, účelových zariadení pre zdravotnícky sektor
 a elektronickej pomôcke pre nevidiacich BatSuite.
 
-<br/><br/>
+<br/>
 
 #### Ďalšie Projekty
 
