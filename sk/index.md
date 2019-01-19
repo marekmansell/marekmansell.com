@@ -50,14 +50,10 @@ navrhli špeciálne pre 11 ročné deti a k tomu vytvorili množstvo učebných 
 Viac o SPy a PyConSK sa dozvieš z tohto Lightning Talku :-) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .center-image }
 
-<br/>
-
 #### Festiaval Atmosféra
 
 [Atmosféra](//festivalatmosfera.sk/) je najlúžasnejším malým festivalom na Slovensku :-) Vidíme sa prvý augustový
 víkend na lúke v Hontianskych Nemciach :-)
-
-<br/>
 
 #### Hardvér a Elektronika
 
@@ -65,8 +61,6 @@ V nimulosti som sa venoval vývoju prototypov hardvéru, a to najmä týmito tec
 systémov - výber súčiastok, návrh DPS (Eagle), osádzanie a testovanie DPS, 3D návrh plastových obalov (CAD softvér),
 3D tlač, programovanie mikroprocesorov v oblastia výroby LED panelov, účelových zariadení pre zdravotnícky sektor
 a elektronickej pomôcke pre nevidiacich BatSuite.
-
-<br/>
 
 #### Ďalšie Projekty
 
