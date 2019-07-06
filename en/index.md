@@ -8,23 +8,24 @@ image:
 
 ![Malta](/images/marek/malta_18_pool.jpg)
 
-I am an enthusiastic programmer, volunteer and experimentator :-) I am currently studying Networking technologies at Slovak University of Technology and leadership in Nexteria Leadership Academy. I am vice-chairman of SPy, a civic association which is the organiser of PyCon Slovakia and monthly Python meetups in Bratislava. I am a hardware engeneer and develop embedded products.
+I am an enthusiastic educator, volunteer and experimentator :-) I currently work as a project manager of a nation-wide educational project called Teaching with Hardware in Slovakia, which strives to make computing lessons at primary and secondary schools more fun and interesting in order to improve students' digital literacy skills. We do this by utilizing an educational platform BBC micro:bit. The projects is based on cooperation with teachers, creating educational resourse for teachers and publishing them under open liceses and last but not least organizing teacher trainings all across Slovakia.
+
+I am studying Networking technologies at Slovak University of Technology (my bachelor's thesis focused at Programmable Input/Output system for IoT environment) and leadership in Nexteria Leadership Academy. I am vice-chairman of SPy, a civic association which is the organiser of PyCon Slovakia and monthly Python meetups in Bratislava. I also used to work as a hardware consultant and develop embedded products in the health industry.
+
+My favourite summer activity is being part of the production team of Atmosféra, a small music festival located in central Slovakia.
 
 #### SPy o.z. and PyCon Slovakia
 
 Find out more about PyConSK in this Lightning Talk :-)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsKUP23WPxY?rel=0&amp;controls=0&amp;showinfo=0&amp;start=432" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .center-image }
 
 #### Teaching with Hardware
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Here is a video in Slovak about the things our association is working on.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sQNQT-0ySMw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cM5DdhZD9aY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{: .center-image }
 
 #### Hardware and Elecronics
 
-I designing and prototypie custom embedded products - part selection, microprocessor selection, PCB design (Eagle), PCB assembly, SMD soldering, testing, case design (in CAD software), case manufacturing (3D printing and CNC milling), embedded software programming
+I used to designing and prototypie custom embedded products - part selection, microprocessor selection, PCB design (Eagle), PCB assembly, SMD soldering, testing, case design (in CAD software), case manufacturing (3D printing and CNC milling), embedded software programming.
 
 ### Projects
 

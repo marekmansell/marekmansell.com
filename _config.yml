@@ -42,8 +42,8 @@ links_en:
     url: /en
   - title: CONTACT
     url: /en/contact
-  - title: Workshops
-    url: /en/workshops
+#	  - title: Workshops
+#    url: /en/workshops
 #  - title: Presentations
 #    url: /en/presentations
 #  - title: blog
