@@ -6,21 +6,11 @@ image:
   feature: pyconsk2017back.jpg
 ---
 
-![Malta](/images/marek/malta_18_pool.jpg)
+![Marek Mansell](/images/marek/mansell_2019_wall_big.jpg)
 
 #### O mne
 
-Som zanieteným edukátorom, dobrovoľníkom a experimentátorom :-) Pracujem ako projektový manažér iniciatívy
-Učíme s Hardvérom, pomocou ktorej sa snažíme robiť hodiny informatiky zaujímavejšími a 
-tým zvyšovať digitálnu gramotnosť žiakov. Používame na to malú edukačnú "hračku" nazývanú BBC micro:bit.
-Dôležitou súčasťou tohto projektu je spolupráca s učiteľmi, preklad a tvorba vzdelávacích
-materiálov šírenými pod otvorenými licenciami, výskum v oblasti didaktiky informatiky a v neposlednom rade
-množstvo školení, ktoré každý mesiac organizujeme pre učiteľov, žiakov i širokú verejnosť.
-Popri tom študujem internetové technológie na Fakulte informatiky a informačných technológií STU a líderstvo v Nexteria 
-Leadership Academy. Ako podpredseda občianskeho združenia SPy spoluorganizujem konferenciu PyCon, každoročné stretnutie 
-Python komunity na Slovensku. V minulosti som taktiež pracoval ako hardvérový vývojár, kde som sa venoval výrobe LED
-panelov, účelových zariadení pre zdravotnícky sektor a elektronickej pomôcke pre nevidiacich BatSuite.
-Mojou srdcovkou je festival Atmosféra v Hontinskych Nemciach, kde som v produkčnom tíme.
+Som zanieteným edukátorom, organizátorom a experimentátorom. Snažím sa posúvať veci vpred najmä v oblasti vzdelávania pomocou projektu Učíme s Hardvérom, kde spolupracujeme so školami a motivujeme žiakov hravými aktivitami rozvíjať si ich digitálne zručnosti. Dôležitou súčasťou je tvorba metodík, lektorovanie učiteľov informatiky a realizácia výskumu v tejto oblasti. To by nebolo možné bez skvelého tímu dobrovoľníkov, s ktorými na projekte pracujeme. Popri tom organizujem IT-čkarsku konferenciu PyCon a pomáham s produkciou na mojej srdcovke - letnom festivale Atmosféra. Tiež študujem informatiku na FIIT STU a líderstvo v Nexteria Leadership Academy.
 
 <br/>
 
