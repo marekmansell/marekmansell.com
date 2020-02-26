@@ -3,10 +3,10 @@ layout: post
 title: Marek Mansell
 lang: en
 image:
-  feature: pyconsk2017back.jpg
+  feature: "marek/mansell_2017_pycon17_back.jpg"
 ---
 
-![Malta](/images/marek/malta_18_pool.jpg)
+![Marek Mansell](/images/marek/mansell_2019_wall_big.jpg)
 
 I am an enthusiastic educator, volunteer and experimentator :-) I currently work as a project manager of a nation-wide educational project called Teaching with Hardware in Slovakia, which strives to make computing lessons at primary and secondary schools more fun and interesting in order to improve students' digital literacy skills. We do this by utilizing an educational platform BBC micro:bit. The projects is based on cooperation with teachers, creating educational resourse for teachers and publishing them under open liceses and last but not least organizing teacher trainings all across Slovakia.
 
