@@ -3,7 +3,8 @@ layout: post
 title: Marek Mansell
 lang: sk
 image:
-  feature: pyconsk2017back.jpg
+  feature: marek/mansell_2017_pycon17_back.jpg
+
 ---
 
 ![Marek Mansell](/images/marek/mansell_2019_wall_big.jpg)
