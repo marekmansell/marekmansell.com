@@ -4,7 +4,7 @@ permalink: /en/contact/index.html
 title: Contact
 lang: en
 image:
-  feature: pyconsk2017back.jpg
+  feature: "marek/mansell_2017_pycon17_back.jpg"
 ---
 
 #### How to get in touch:

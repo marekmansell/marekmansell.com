@@ -4,7 +4,7 @@ permalink: /sk/kontakt/index.html
 title: Kontakt
 lang: sk
 image:
-  feature: pyconsk2017back.jpg
+  feature: "marek/mansell_2017_pycon17_back.jpg"
 ---
 
 
