@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Marek Mansell
+permalink: /index.html
 lang: sk
 image:
   feature: "marek/mansell_2017_pycon17_back.jpg"
