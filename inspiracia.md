@@ -4,11 +4,9 @@ title: Inšpirácia
 permalink: /inspiracia/index.html
 ---
 
-Programovanie
-*************
+# Programovanie
 
-SOLE - Self Organized Learning Environment
-==========================================
+## SOLE - Self Organized Learning Environment
 
 https://startsole.org/index.html
 
@@ -22,29 +20,23 @@ https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud
 
 https://www.ted.com/talks/sugata_mitra_the_child_driven_education
 
-Inšpirácia priamo od žiakov o programovaní
-==========================================
+## Inšpirácia priamo od žiakov o programovaní
 
 https://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer
 
-
-Dievčatá a programovanie
-========================
+## Dievčatá a programovanie
 
 https://www.ted.com/talks/reshma_saujani_teach_girls_bravery_not_perfection
 
 https://www.ted.com/talks/linda_liukas_a_delightful_way_to_teach_kids_about_computers
 
-
-Párové programovanie
-====================
+## Párové programovanie
 
 * `Krátke video pre žiakov [en] na YouTube. <https://www.youtube.com/watch?v=vgkahOzFH2Q>`_
 * `Krátke video pre učiteľov [en] na YouTube. <https://www.youtube.com/watch?v=sxToW3ixrwo>`_
 * `Vtipné video na čo si dávať pozor pri prárovom programovaní [en] na YouTube. <https://www.youtube.com/watch?v=McZ131y0OYU>`_
 
-Motivačné videá na technológie vo zdelávaní
-===========================================
+## Motivačné videá na technológie vo zdelávaní
 
 * `Why you should make useless things | Simone Giertz [en] TEDx talk na YouTube <https://www.youtube.com/watch?v=c0bsKc4tiuY>`_
 
@@ -56,16 +48,11 @@ Motivačné videá na technológie vo zdelávaní
 
 https://www.youtube.com/watch?v=CB_xAzBBTPI&feature=youtu.be
 
-
-
-Makers
-======
+## Makers
 
 https://www.ted.com/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination
 
-
-Materiály pre učiteľov
-======================
+## Materiály pre učiteľov
 
 https://curriculum.raspberrypi.org/
 
@@ -73,14 +60,11 @@ https://projects.raspberrypi.org/en/codeclub/microbit
 
 https://projects.raspberrypi.org/en/codeclub/raspberry-pi
 
-Kurzy pre učiteľov
-==================
+## Kurzy pre učiteľov
 
 https://www.futurelearn.com/partners/raspberry-pi
 
-
-Kritické myslenie a hoaxy
-=========================
+## Kritické myslenie a hoaxy
 
 https://eduworld.sk/cd/jaroslava-konickova/2651/metody-kritickeho-myslenia-a-ich-vyuzitie-v-skole
 
@@ -90,18 +74,15 @@ http://hoax.cz/cze/
 
 https://hoax.sk/
 
-Medzipredmetové vzťahy
-======================
+## Medzipredmetové vzťahy
 
 http://naturescience.fhpv.unipo.sk/fyzika/didmat/righmedzi.htm
 
-Python hodiny nápady (technické)
-================================
+## Python hodiny nápady (technické)
+
 https://www.geeksforgeeks.org/design-a-keylogger-in-python/
 
-Vzdelávacie projekty
-====================
-
+## Vzdelávacie projekty
 
 http://openlab.sk/
 
