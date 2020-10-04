@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Marek Mansell
 permalink: /index.html
 lang: sk

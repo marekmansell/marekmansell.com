@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /kontakt/index.html
 title: Kontakt
 lang: sk
