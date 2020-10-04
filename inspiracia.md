@@ -4,8 +4,6 @@ title: Inšpirácia
 permalink: /inspiracia/index.html
 ---
 
-# Programovanie
-
 #### SOLE - Self Organized Learning Environment
 
 https://startsole.org/index.html
