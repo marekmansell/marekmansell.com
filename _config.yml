@@ -1,57 +1,22 @@
-title: Vonge
+#
+# _config.yml for jekyll-bootstrap-blank
+#
 
-plugins:
-  - jekyll-bookshop
-  - jekyll-sitemap
-  - jekyll/tagging
-
-# Multiple bookshops can be used on one website,
-# or different production / staging locations.
-bookshop_locations:
-  - ../component-library
-
-exclude:
-  - postcss.config.js
-  - node_modules
-
-include:
-  - _cloudcannon
-
-collections_dir: 'collections'
-
-collections:
-  pages:
-    output: true
-    permalink: /:title/
-  projects:
-    output: true
-    permalink: /project/:slug
-  testimonials:
-    output: false
-  posts:
-    output: true
-    permalink: /blog/:slug
-
+exclude: [ "CNAME", "README.md", "LICENSE.txt", "UNLICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
+permalink: /blog/:year/:month/:day/:title/index.:output_ext
+production_url: https://LATER.example.com
+title: LATER site 
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
 defaults:
-  - scope:
-      path: ""
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
     values:
-      layout: default
-  - scope:
-      type: pages
-      path: _pages/index.html
-    values:
-      permalink: /
-  - scope:
-      type: projects
-    values:
-      layout: project
-  - scope:
-      type: posts
-    values:
-      layout: post
+      layout: "default"
 
-# Tags
-tag_page_dir: tag
-tag_page_layout: tag_page
-tag_permalink_style: /:title
+google_analytics_id: LATER
+google_validation: LATER
+bing_validation: LATER
+yandex_validation: LATER
