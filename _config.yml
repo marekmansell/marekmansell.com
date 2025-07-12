@@ -16,7 +16,7 @@ defaults:
     values:
       layout: "default"
 
-google_analytics_id: LATER
+google_analytics_id: G-9Z7XCY900H
 google_validation: LATER
 bing_validation: LATER
 yandex_validation: LATER
