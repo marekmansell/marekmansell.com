@@ -4,8 +4,8 @@
 
 exclude: [ "CNAME", "README.md", "LICENSE.txt", "UNLICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
 permalink: /blog/:year/:month/:day/:title/index.:output_ext
-production_url: https://LATER.example.com
-title: LATER site 
+production_url: https://marekmansell.com
+title: Marek Mansell 
 markdown: kramdown
 gems:
   - jekyll-redirect-from
